@@ -1,0 +1,10 @@
+# Terraform: nunca subir el estado ni el proveedor descargado
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
+crash.*.log
+# Variables con valores reales (la plantilla .example si se sube)
+*.tfvars
+!*.tfvars.example

@@ -36,6 +36,4 @@ terraform destroy   # borra todo lo que creó
 
 ## Notas
 
-- El `terraform.tfstate` no se sube a Git (está en el `.gitignore`).
-  A GitHub solo van `main.tf`, `.terraform.lock.hcl` y este README.
 - En el código va la llave **pública**. La privada no sale de mi PC.

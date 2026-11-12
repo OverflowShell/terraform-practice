@@ -12,7 +12,7 @@ Al final confirmé que el grupo ya no existe en Azure.
 8 recursos: el grupo de recursos, una red virtual con su subred, una regla
 de seguridad que solo deja pasar SSH (puerto 22), la IP pública, la tarjeta
 de red y la VM `vm-tfpractica` (Ubuntu 22.04).
-(1.png)
+(1.PNG)
 ## Comandos
 
 Primero la llave, y tiene que ser RSA: Azure no acepta ed25519 para crear

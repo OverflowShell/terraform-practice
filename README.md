@@ -13,7 +13,7 @@ Al final confirmé que el grupo ya no existe en Azure.
 de seguridad que solo deja pasar SSH (puerto 22), la IP pública, la tarjeta
 de red y la VM `vm-tfpractica` (Ubuntu 22.04).
 
-![Captura de la práctica] (1.PNG)
+![Captura de la práctica](1.PNG)
 ## Comandos
 
 Primero la llave, y tiene que ser RSA: Azure no acepta ed25519 para crear
